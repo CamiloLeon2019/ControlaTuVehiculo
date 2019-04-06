@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Controla Tu Vehículo</string>
+    <string name="title_activity_login">Login - Controla Tu Vehículo</string>
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">Este correo no es válido</string>
+    <string name="error_invalid_password">Esta contraseña es muy corta</string>
+    <string name="error_incorrect_password">Esta contraseña es incorrecta</string>
+    <string name="error_field_required">Se requiere llenar este campo.</string>
+    <string name="StringIcono1">Ingresa datos de tu vehículo</string>
+    <string name="StringIconoSub1">Mécanica del vehículo</string>
+    <string name="StringIcono2">Próximos mantenimientos</string>
+    <string name="StringIconoSub2">Fechas y/o kilometraje</string>
+    <string name="StringIcono3">Estadísticas</string>
+    <string name="StringIconoSub3">Reportes</string>
+    <string name="StringIcono4">Alertas</string>
+    <string name="StringIconoSub4">Emergencias</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
